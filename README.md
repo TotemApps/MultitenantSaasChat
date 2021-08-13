@@ -1,2 +1,5 @@
 # MultitenantSaasChat
-Real time communication app in Mutitenant SaaS Model
+
+Real time communication app developed using Mutitenant SaaS Model
+
+
