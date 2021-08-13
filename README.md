@@ -8,9 +8,9 @@ This app is a Real Time Chat with realtime video streaming, realtime translation
 
 ## Prototypes
 
-### Web Inscription Prototype
+[Web Inscription Prototype](https://xd.adobe.com/view/cd4b1eb9-719b-440a-910c-a0bf4d20e460-9818/)
 
-[![image.png](/Docs/WebInscriptionMultitenantSaasChat01.png)](https://xd.adobe.com/view/cd4b1eb9-719b-440a-910c-a0bf4d20e460-9818/)
+![image.png](/Docs/WebInscriptionMultitenantSaasChat01.png)
 
 ## Patterns
 
