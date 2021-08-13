@@ -14,9 +14,9 @@ This app is a Real Time Chat with realtime video streaming, realtime translation
 * DevOps principles
 
 ## Technologies
-[WebRTC](https://webrtc.org/)
-[Modeling SDK for Visual Studio - Domain-Specific Languages](https://docs.microsoft.com/en-us/visualstudio/modeling/modeling-sdk-for-visual-studio-domain-specific-languages?view=vs-2019)
-[Multitenant SaaS on Azure](https://docs.microsoft.com/en-us/azure/architecture/example-scenario/multi-saas/multitenant-saas)
+* [WebRTC](https://webrtc.org/)
+* [Modeling SDK for Visual Studio - Domain-Specific Languages](https://docs.microsoft.com/en-us/visualstudio/modeling/modeling-sdk-for-visual-studio-domain-specific-languages?view=vs-2019)
+* [Multitenant SaaS on Azure](https://docs.microsoft.com/en-us/azure/architecture/example-scenario/multi-saas/multitenant-saas)
 
 ## Investigation concepts
 
